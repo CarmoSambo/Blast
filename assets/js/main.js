@@ -46,11 +46,11 @@
       if (!headerLogo) return;
       // Adicione aqui os caminhos das imagens que deseja rotacionar
       const images = [
-        'assets/img/singapore-crane-shipping-cargo.jpg',
-        'assets/img/Minas.jpg',
-        'assets/img/valvulas.jpg',
-        'assets/img/Bebidas.jpg',
-        'assets/img/agricultural.jpg'
+        'assets/img/singapore-crane-shipping-cargo.webp',
+        'assets/img/Minas.webp',
+        'assets/img/valvulas.webp',
+        'assets/img/Bebidas.webp',
+        'assets/img/agricultural.webp'
       ];
       let idx = 0;
       setInterval(() => {
